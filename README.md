@@ -1,7 +1,7 @@
 # Arduino LED Binary Counter
 
 ## Description
-This project implements a binary counter using LEDs and an Arduino board. The LEDs represent the binary digits, counting up from 0 to 15 determined by the number of LEDs used.
+This project implements a binary counter using LEDs and an Arduino board. The LEDs represent the binary digits, counting up from 0 to 15 determined by the number of LEDs used which is 4.
 
 ## Hardware Requirements
 - Arduino board (e.g., Arduino Uno)
@@ -11,7 +11,7 @@ This project implements a binary counter using LEDs and an Arduino board. The LE
 - Jumper wires
 
 ## Circuit Diagram
-Include a schematic or a Fritzing diagram showing how the components are connected.
+A schematic diagram showing how the components are connected.
 
 ## Installation
 1. Connect the components according to the circuit diagram.
