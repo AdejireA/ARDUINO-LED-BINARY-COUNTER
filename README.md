@@ -11,7 +11,7 @@ This project implements a binary counter using LEDs and an Arduino board. The LE
 - Jumper wires
 
 ## Circuit Diagram
-A schematic diagram showing how the components are connected.
+A schematic diagram showing how the components are connected is included.
 
 ## Installation
 1. Connect the components according to the circuit diagram.
